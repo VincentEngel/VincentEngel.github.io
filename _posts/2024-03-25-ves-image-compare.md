@@ -9,6 +9,8 @@ comments: false
 author: Vincent Engel
 ---
 
+Vesic is an open source android app which provides the user several options to compare two images the way they want to.
+
 Watch a short preview of the App on [YouTube](https://www.youtube.com/watch?v=KlXy7ZQIdQE)
 
 I started the project to create an app for an art teacher to easily compare images in different ways. After publishing the app, I received a lot of positive feedback. I also enjoyed learning about Android, so I decided to continue working on the app.
