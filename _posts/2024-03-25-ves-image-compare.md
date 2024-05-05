@@ -15,6 +15,8 @@ Watch a short preview of the App on [YouTube](https://www.youtube.com/watch?v=Kl
 
 I started the project to create an app for an art teacher to easily compare images in different ways. After publishing the app, I received a lot of positive feedback. I also enjoyed learning about Android, so I decided to continue working on the app.
 
+In the beginning, the app only had two comparison modes. I decided to release the app early to get user feedback. To do this, I published my app on both F-Droid and the App Store. F-Droid is an open source app store for FOSS apps. I also provided the github repo link and my email address to receive feedback. With the feedback I received, I continued to develop the app to what it is now.
+
 **Comparison modes**:
 
 - **Side by Side**: Show the images side by side
